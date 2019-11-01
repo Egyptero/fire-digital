@@ -1,0 +1,19 @@
+{
+  "trigger": "message:appMaker",
+  "app": { "_id": "5c186b88851ea100229fe9a7" },
+  "version": "v1.1",
+  "messages": [
+    {
+      "text": "Thanks Mamdouh for contacting us",
+      "type": "text",
+      "role": "appMaker",
+      "received": 1554658304.195,
+      "authorId": "00uif6fr1fsyK3drJ0h7",
+      "avatarUrl": "https://www.gravatar.com/avatar/00000000000000000000000000000000.png?s=200&d=mm",
+      "_id": "5caa3400eaba6900101bddca",
+      "source": { "type": "api" }
+    }
+  ],
+  "appUser": { "_id": "984bfd0102677790cbab5079", "conversationStarted": true },
+  "conversation": { "_id": "99167cb5a254d0bbca44bc66" }
+}

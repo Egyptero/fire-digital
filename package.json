@@ -1,0 +1,25 @@
+{
+  "name": "fire-digital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "fs": "0.0.1-security",
+    "helmet": "^3.15.1",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "joi": "^14.3.1",
+    "mongoose": "^5.4.12",
+    "smooch-core": "^8.4.0",
+    "winston": "^3.2.1"
+  }
+}

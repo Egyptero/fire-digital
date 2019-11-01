@@ -1,0 +1,31 @@
+{
+  "trigger": "message:appUser",
+  "app": {
+    "_id": "5c186b88851ea100229fe9a7"
+  },
+  "version": "v1.1",
+  "messages": [
+    {
+      "type": "text",
+      "text": "Hello sandbox",
+      "role": "appUser",
+      "received": 1554639081.199,
+      "name": "Mamdouh Aref",
+      "authorId": "984bfd0102677790cbab5079",
+      "_id": "5ca9e8e90ea0eb000d81a5df",
+      "source": {
+        "type": "whatsapp",
+        "integrationId": "5ca90da347b9000010d14d5a",
+        "originalMessageId": "ABEGIBARIiZmAgo-sC61BR6_hgoh",
+        "originalMessageTimestamp": 1554639081
+      }
+    }
+  ],
+  "appUser": {
+    "_id": "984bfd0102677790cbab5079",
+    "conversationStarted": true
+  },
+  "conversation": {
+    "_id": "99167cb5a254d0bbca44bc66"
+  }
+}

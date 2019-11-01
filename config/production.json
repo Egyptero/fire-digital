@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "FinesseClient",
+  "dbUrl": "mongodb://localhost:27017/FIRE_DIGITAL_PROD",
+  "smaPort": "8443"
+}

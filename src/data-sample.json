@@ -1,0 +1,329 @@
+{
+  "WAUser": {
+    "UserName": null,
+    "UserID": "0002",
+    "UserPhone": "+96692001234",
+    "UserStatus": "Active",
+    "UserLastSeenTime": "15-11-2018 16:45"
+  },
+  "WAContacts": { "WAUsers": null, "WAGroups": null },
+  "WAConversations": [
+    {
+      "ConversationID": "00000001",
+      "WADates": [
+        {
+          "DateString": "9-11-2017",
+          "ShortDate": "2017-11-09T00:00:00",
+          "WAMessages": [
+            {
+              "MessageID": "001",
+              "MessageText": "Hello RJB Support",
+              "MediaURL": null,
+              "MessageSendDateTime": "9-11-2017 10:00",
+              "MessageDeliveryDateTime": "9-11-2017 10:00",
+              "MessageSeenDateTime": "9-11-2017 10:00",
+              "WAFromUser": {
+                "UserName": null,
+                "UserID": "0001",
+                "UserPhone": "+201011222666",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToUser": {
+                "UserName": null,
+                "UserID": "0002",
+                "UserPhone": "+96692001234",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToGroup": null,
+              "StarredMessage": false,
+              "Seen": true,
+              "Delivered": true,
+              "Sent": true,
+              "FailToSend": false,
+              "MessageStatus": 0
+            }
+          ],
+          "WAEvents": null
+        },
+        {
+          "DateString": "10-11-2017",
+          "ShortDate": "2017-11-10T00:00:00",
+          "WAMessages": [
+            {
+              "MessageID": "002",
+              "MessageText": "Hello Customer",
+              "MediaURL": null,
+              "MessageSendDateTime": "10-11-2017 10:04",
+              "MessageDeliveryDateTime": "10-11-2017 10:01",
+              "MessageSeenDateTime": "10-11-2017 10:45",
+              "WAFromUser": {
+                "UserName": null,
+                "UserID": "0002",
+                "UserPhone": "+96692001234",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToUser": {
+                "UserName": null,
+                "UserID": "0001",
+                "UserPhone": "+201011222666",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToGroup": null,
+              "StarredMessage": false,
+              "Seen": true,
+              "Delivered": true,
+              "Sent": true,
+              "FailToSend": false,
+              "MessageStatus": 0
+            },
+            {
+              "MessageID": "003",
+              "MessageText": "I need to activate my phone banking",
+              "MediaURL": null,
+              "MessageSendDateTime": "10-11-2017 11:15",
+              "MessageDeliveryDateTime": "10-11-2017 11:15",
+              "MessageSeenDateTime": "10-11-2017 11:15",
+              "WAFromUser": {
+                "UserName": null,
+                "UserID": "0001",
+                "UserPhone": "+201011222666",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToUser": {
+                "UserName": null,
+                "UserID": "0002",
+                "UserPhone": "+96692001234",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToGroup": null,
+              "StarredMessage": false,
+              "Seen": true,
+              "Delivered": true,
+              "Sent": true,
+              "FailToSend": false,
+              "MessageStatus": 0
+            },
+            {
+              "MessageID": "004",
+              "MessageText": "Will issue a request on the system for you",
+              "MediaURL": null,
+              "MessageSendDateTime": null,
+              "MessageDeliveryDateTime": null,
+              "MessageSeenDateTime": null,
+              "WAFromUser": {
+                "UserName": null,
+                "UserID": "0002",
+                "UserPhone": "+96692001234",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToUser": {
+                "UserName": null,
+                "UserID": "0001",
+                "UserPhone": "+201011222666",
+                "UserStatus": "Active",
+                "UserLastSeenTime": "15-11-2018 16:45"
+              },
+              "WAToGroup": null,
+              "StarredMessage": false,
+              "Seen": false,
+              "Delivered": false,
+              "Sent": false,
+              "FailToSend": false,
+              "MessageStatus": 0
+            }
+          ],
+          "WAEvents": null
+        }
+      ],
+      "WAUser": {
+        "UserName": null,
+        "UserID": "0001",
+        "UserPhone": "+201011222666",
+        "UserStatus": "Active",
+        "UserLastSeenTime": "15-11-2018 16:45"
+      },
+      "WAOwner": {
+        "UserName": null,
+        "UserID": "0002",
+        "UserPhone": "+96692001234",
+        "UserStatus": "Active",
+        "UserLastSeenTime": "15-11-2018 16:45"
+      },
+      "WAGroup": null
+    }
+  ],
+  "MessageToSend": {
+    "MessageID": null,
+    "MessageText": null,
+    "MediaURL": null,
+    "MessageSendDateTime": null,
+    "MessageDeliveryDateTime": null,
+    "MessageSeenDateTime": null,
+    "WAFromUser": null,
+    "WAToUser": null,
+    "WAToGroup": null,
+    "StarredMessage": false,
+    "Seen": false,
+    "Delivered": false,
+    "Sent": false,
+    "FailToSend": false,
+    "MessageStatus": 0
+  },
+  "SelectedConversation": {
+    "ConversationID": "00000001",
+    "WADates": [
+      {
+        "DateString": "9-11-2017",
+        "ShortDate": "2017-11-09T00:00:00",
+        "WAMessages": [
+          {
+            "MessageID": "001",
+            "MessageText": "Hello RJB Support",
+            "MediaURL": null,
+            "MessageSendDateTime": "9-11-2017 10:00",
+            "MessageDeliveryDateTime": "9-11-2017 10:00",
+            "MessageSeenDateTime": "9-11-2017 10:00",
+            "WAFromUser": {
+              "UserName": null,
+              "UserID": "0001",
+              "UserPhone": "+201011222666",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToUser": {
+              "UserName": null,
+              "UserID": "0002",
+              "UserPhone": "+96692001234",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToGroup": null,
+            "StarredMessage": false,
+            "Seen": true,
+            "Delivered": true,
+            "Sent": true,
+            "FailToSend": false,
+            "MessageStatus": 0
+          }
+        ],
+        "WAEvents": null
+      },
+      {
+        "DateString": "10-11-2017",
+        "ShortDate": "2017-11-10T00:00:00",
+        "WAMessages": [
+          {
+            "MessageID": "002",
+            "MessageText": "Hello Customer",
+            "MediaURL": null,
+            "MessageSendDateTime": "10-11-2017 10:04",
+            "MessageDeliveryDateTime": "10-11-2017 10:01",
+            "MessageSeenDateTime": "10-11-2017 10:45",
+            "WAFromUser": {
+              "UserName": null,
+              "UserID": "0002",
+              "UserPhone": "+96692001234",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToUser": {
+              "UserName": null,
+              "UserID": "0001",
+              "UserPhone": "+201011222666",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToGroup": null,
+            "StarredMessage": false,
+            "Seen": true,
+            "Delivered": true,
+            "Sent": true,
+            "FailToSend": false,
+            "MessageStatus": 0
+          },
+          {
+            "MessageID": "003",
+            "MessageText": "I need to activate my phone banking",
+            "MediaURL": null,
+            "MessageSendDateTime": "10-11-2017 11:15",
+            "MessageDeliveryDateTime": "10-11-2017 11:15",
+            "MessageSeenDateTime": "10-11-2017 11:15",
+            "WAFromUser": {
+              "UserName": null,
+              "UserID": "0001",
+              "UserPhone": "+201011222666",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToUser": {
+              "UserName": null,
+              "UserID": "0002",
+              "UserPhone": "+96692001234",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToGroup": null,
+            "StarredMessage": false,
+            "Seen": true,
+            "Delivered": true,
+            "Sent": true,
+            "FailToSend": false,
+            "MessageStatus": 0
+          },
+          {
+            "MessageID": "004",
+            "MessageText": "Will issue a request on the system for you",
+            "MediaURL": null,
+            "MessageSendDateTime": null,
+            "MessageDeliveryDateTime": null,
+            "MessageSeenDateTime": null,
+            "WAFromUser": {
+              "UserName": null,
+              "UserID": "0002",
+              "UserPhone": "+96692001234",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToUser": {
+              "UserName": null,
+              "UserID": "0001",
+              "UserPhone": "+201011222666",
+              "UserStatus": "Active",
+              "UserLastSeenTime": "15-11-2018 16:45"
+            },
+            "WAToGroup": null,
+            "StarredMessage": false,
+            "Seen": false,
+            "Delivered": false,
+            "Sent": false,
+            "FailToSend": false,
+            "MessageStatus": 0
+          }
+        ],
+        "WAEvents": null
+      }
+    ],
+    "WAUser": {
+      "UserName": null,
+      "UserID": "0001",
+      "UserPhone": "+201011222666",
+      "UserStatus": "Active",
+      "UserLastSeenTime": "15-11-2018 16:45"
+    },
+    "WAOwner": {
+      "UserName": null,
+      "UserID": "0002",
+      "UserPhone": "+96692001234",
+      "UserStatus": "Active",
+      "UserLastSeenTime": "15-11-2018 16:45"
+    },
+    "WAGroup": null
+  }
+}

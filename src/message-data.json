@@ -1,0 +1,31 @@
+[
+  {
+    "MessageID": "001",
+    "MessageText": "Hello RJB Support",
+    "MediaURL": null,
+    "MessageSendDateTime": "9-11-2017 10:00",
+    "MessageDeliveryDateTime": "9-11-2017 10:00",
+    "MessageSeenDateTime": "9-11-2017 10:00",
+    "WAFromUser": {
+      "UserName": null,
+      "UserID": "0001",
+      "UserPhone": "+201011222666",
+      "UserStatus": "Active",
+      "UserLastSeenTime": "15-11-2018 16:45"
+    },
+    "WAToUser": {
+      "UserName": null,
+      "UserID": "0002",
+      "UserPhone": "+96692001234",
+      "UserStatus": "Active",
+      "UserLastSeenTime": "15-11-2018 16:45"
+    },
+    "WAToGroup": null,
+    "StarredMessage": false,
+    "Seen": true,
+    "Delivered": true,
+    "Sent": true,
+    "FailToSend": false,
+    "MessageStatus": 0
+  }
+]
